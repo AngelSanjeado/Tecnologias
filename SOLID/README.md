@@ -1,0 +1,1 @@
+En la carpeta de SOLID se guardan todas las actividades que vimos a lo largo del semestre con respecto a SOLID

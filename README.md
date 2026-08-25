@@ -1,0 +1,1 @@
+En esta carpeta se subirán todas las actividades de la EE Tecnologías.
