@@ -1,4 +1,4 @@
-package SOLID.ClasesMiguel;
+package SOLID.clases_abstractas_interfaces.ClasesMiguel;
 
 public class Lampara implements ActivablePorRedstone {
     
