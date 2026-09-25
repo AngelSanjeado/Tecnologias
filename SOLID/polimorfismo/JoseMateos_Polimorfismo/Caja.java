@@ -1,4 +1,4 @@
-package SOLID.polimorfismo.JoseMateos_Polimorfismo;
+package polimorfismo.JoseMateos_Polimorfismo;
 
 public class Caja{
     public void cobrar(MetodoPago metodo, double monto){

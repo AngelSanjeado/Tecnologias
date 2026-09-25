@@ -1,4 +1,4 @@
-package SOLID.clases_abstractas_interfaces.ClasesMiguel;
+package clases_abstractas_interfaces.ClasesMiguel;
 
 public interface ActivablePorRedstone {
     void activar();
